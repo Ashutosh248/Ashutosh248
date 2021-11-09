@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Python.
+- 🔭 &nbsp; I’m currently learning Java.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Electronis and Communication Engineering.
 - 💼 &nbsp; Full time coder.
